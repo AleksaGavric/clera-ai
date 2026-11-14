@@ -1,3 +1,5 @@
+> **Historical HackMIT 2022 prototype fork.** Upstream: [mattnappo/clera-ai](https://github.com/mattnappo/clera-ai). This is a team hackathon snapshot, not a maintained hosted service. The original demo/domain references below are historical, not verified live services. The backend uses an old model SDK and exposes prototype file/database operations without production access controls; do not deploy it publicly as-is. The original project description follows.
+
 # hackmit22
 
 
